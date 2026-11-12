@@ -133,16 +133,6 @@ I'm interested in **internships and working-student opportunities** in:
 * IoT
 * Control Systems
 
----
 
-## 📫 Connect With Me
-
-**LinkedIn:** [Add your LinkedIn URL]
-
-**Email:** [Add your professional email]
-
-**GitHub:** [Add your GitHub URL]
-
----
 
 ⭐ *Thanks for visiting my profile!*
